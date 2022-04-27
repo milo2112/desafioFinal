@@ -3,6 +3,8 @@
 *  Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
 *  Author: TemplateMag.com
 *  License: https://templatemag.com/license/
+*
+*  Solo para uso con fines académicos --Milton Rosas 2022--
 */
 
 body {
@@ -238,6 +240,18 @@ SECTION WRAPS
   padding-right: 8px;
   color: #1abc9c;
 }
+
+
+#hov{
+  opacity:1 !important;
+}
+ 
+#hov:hover{
+  opacity:0.5 !important;
+}
+
+
+
 
 /* Copyright Wrap */
 
